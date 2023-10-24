@@ -1,0 +1,32 @@
+body {
+	background-color: rgb(194, 194, 194);
+}
+.auto__auto-entry {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.auto__auto-regust {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.form {
+	display: flex;
+	flex-direction: column;
+}
+input {
+	padding: 10px;
+	font-size: 20px;
+	font-weight: 700;
+	color: rgb(182, 182, 182);
+	outline: 0;
+}
+.reg {
+	margin-top: 10px;
+}
+.hide {
+	display: none;
+}
